@@ -1,4 +1,4 @@
-# EJ-Backend_NodeJs
+# Playground_Nodejs
 Ejercicios del Curso de backend con nodejs
 ___
 ## Instalación
